@@ -1,34 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&duration=3000&color=8A56F7FF&lines=Hi+There+%F0%9F%91%8B;I'm+Chamal+Sanjana+Peiris)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&duration=3000&color=8A56F7FF&lines=Hi+There+%F0%9F%91%8B;I'm+Chamal+Peiris)](https://git.io/typing-svg)
 
 <br>
 
 
-## I'm a Learner and a Developer!
-- 🌱 I’m currently learning everything
+## I'm a Learner and a developer!
+- ⛈ I’m currently learning Cloud service infrastructure
 - 💬 Ask me about anything related to Application Development
-- 🥅 2022 Goals: Complete Professional Certifications
+- 🥅 2022 Goals: Complete professional certifications and to start of my Masters degree
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/chamal-peiris-3172671a9/)
-- ⚡ Fun fact: I love to listen to everything and reading articles
+- ⚡ Fun fact: I'm obsessed with IOT and Robotics
 
 <br>
 
 
-## 👧 About me
+## 👦 About me
 
-I'm **Chamal Peiris** and I am a **Full Stack Developer** 
-I am a hard-working and driven individual who isn't afraid to face a challenge.
+I'm **Chamal Peiris** ,A **Full Stack Developer.** 
+I am a dedicated and a self driven software developer holding a Bsc(hons) Software Engineering degree, who can learn and adapt to the latest technology stacks in the IT domain. Further more , I would like to work with any project team while learning and supporting to reach the project goals and milestones.
 
 <br>
 
 
 ## 📡 Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)](https://www.linkedin.com/in/thakshila-nuwangi-07b3ba1aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pethum-jeewantha-7b70aa1b1/)](https://www.linkedin.com/in/chamal-peiris-3172671a9/)
 &nbsp;
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14575364/pethum-jeewantha)](https://stackoverflow.com/users/13561350/thakshila-nuwangi)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/14575364/pethum-jeewantha)](https://stackoverflow.com/users/13466282/chamal-peiris)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/T_Nuwangi)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-HackerRank-lightgrey)](https://www.hackerrank.com/chamal_peiris_3g)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thakshilanuwangi123.com)](mailto:thakshilanuwangi123@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ChamalPeiris99)
+&nbsp;
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaml.peiris3g@gmail.com)](mailto:chamal.peiris3g@gmail.com)
 
 ## 🎓 SKILLS & TOOLS
 
@@ -99,12 +102,10 @@ I am a hard-working and driven individual who isn't afraid to face a challenge.
 
 ## 📈 MY GITHUB STATS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThakshilaNuwangi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamal-Peiris&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pethum-Jeewantha&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <br>
 
-![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
-&nbsp;
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
