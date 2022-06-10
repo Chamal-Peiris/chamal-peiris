@@ -15,8 +15,7 @@
 
 ## 👦 About me
 
-I'm a**Full Stack Developer.** 
-And i am a dedicated and a self driven software developer holding a Bsc(hons) Software Engineering degree, who can learn and adapt to the latest technology stacks in the IT domain. Further more , I would like to work with any project team while learning and supporting to reach the project goals and milestones.
+I am a dedicated and a self driven software developer holding a Bsc(hons) Software Engineering degree, who can learn and adapt to the latest technology stacks in the IT domain. Further more , I would like to work with any project team while learning and supporting to reach the project goals and milestones.
 
 <br>
 
