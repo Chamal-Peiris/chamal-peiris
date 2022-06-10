@@ -3,9 +3,9 @@
 <br>
 
 
-## I'm a Learner and a developer!
+## I'm a Learner and a full stack developer!
 - ⛈ I’m currently learning Cloud service infrastructure
-- 💬 Ask me about anything related to Application Development
+- 💬 Ask me about anything related to technologies mentioned in my portfolio
 - 🥅 2022 Goals: Complete professional certifications and to start of my Masters degree
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/chamal-peiris-3172671a9/)
 - ⚡ Fun fact: I'm obsessed with IOT and Robotics
@@ -15,8 +15,8 @@
 
 ## 👦 About me
 
-I'm **Chamal Peiris** ,A **Full Stack Developer.** 
-I am a dedicated and a self driven software developer holding a Bsc(hons) Software Engineering degree, who can learn and adapt to the latest technology stacks in the IT domain. Further more , I would like to work with any project team while learning and supporting to reach the project goals and milestones.
+I'm a**Full Stack Developer.** 
+And i am a dedicated and a self driven software developer holding a Bsc(hons) Software Engineering degree, who can learn and adapt to the latest technology stacks in the IT domain. Further more , I would like to work with any project team while learning and supporting to reach the project goals and milestones.
 
 <br>
 
